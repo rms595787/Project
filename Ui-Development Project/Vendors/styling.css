@@ -81,6 +81,7 @@ li {
     position: absolute;
     right: 155px;
     top: 200px;
+    left: 562.2px;
 }
 
 .header-main-box>h1 {
@@ -131,6 +132,7 @@ li {
     top: 1050px;
     left: 90px;
     right: 155px;
+    width: 1035px;
 }
 
 .founder {
@@ -163,6 +165,7 @@ li {
     top: 1600px;
     left: 730px;
     right: 90px;
+    width: 690.5px;
 }
 
 .header-heading-paragraph {
@@ -173,7 +176,7 @@ li {
     top: 1880px;
     left: 730px;
     right: 90px;
-
+    width: 690.5px;
 }
 
 .planning-box {
