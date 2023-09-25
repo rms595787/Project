@@ -1,0 +1,282 @@
+.cheat-detail {
+    background-color: antiquewhite;
+    margin: 0px;
+    padding: 0px;
+}
+
+.content {
+    margin: 0;
+    padding: 0;
+}
+
+.unordered-list {
+    padding: 0;
+    list-style: none;
+}
+
+.board-title {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.title-h1-tag {
+    text-align: center;
+    font-size: 1.7em;
+    font-weight: bold;
+}
+
+.description-title {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.board-card-title {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.1em;
+    text-align: left;
+}
+
+hr {
+    color: black;
+}
+
+.board-title {
+    text-align: center;
+}
+
+.perform {
+    color: blue;
+}
+
+.board-basic-tag-practical {
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    background-color: #fbe8a6;
+    /* khaki */
+    height: 100%;
+    width: 98%;
+}
+
+.board1 {
+    border-radius: 10px;
+    background-color: #d8c3a5;
+    padding: 10px;
+    width: 20%;
+}
+
+.basics-practice {
+    display: inline-block;
+    width: 23%;
+    padding: 10px;
+}
+
+.images-and-link-practice {
+    display: inline-block;
+    width: 24%;
+    border-left: 3px solid antiquewhite;
+    height: 951px;
+    padding: 10px;
+}
+
+.list-pracitce {
+    display: inline-block;
+    width: 24%;
+    border-left: 3px solid antiquewhite;
+    height: 971px;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+.formatting-tag-practical {
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    background-color: #f4976c;
+    height: 100%;
+    width: 98%;
+
+}
+
+.board2 {
+    border-radius: 10px;
+    background-color: #bc4639;
+    padding: 10px;
+    width: 20%;
+
+}
+
+.format-practice1 {
+    display: inline-block;
+    width: 23%;
+    padding: 10px;
+
+}
+
+.format-practice2 {
+    display: inline-block;
+    width: 24%;
+    border-left: 3px solid antiquewhite;
+    height: 1389px;
+    padding: 10px;
+}
+
+.format-practice3 {
+    display: inline-block;
+    width: 24%;
+    border-left: 3px solid antiquewhite;
+    height: 1409px;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+.board-form-table-tag-practical {
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    background-color: #f78888;
+    height: 100%;
+    width: 98%;
+
+}
+
+.board3 {
+    border-radius: 10px;
+    background-color: #e7717d;
+    padding: 10px;
+    width: 20%;
+
+}
+
+.table-form {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.form-practice {
+    display: inline-block;
+    width: 467px;
+    height: 550px;
+    padding: 10px;
+
+}
+
+.form-practice2 {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+
+}
+
+.tables-practice {
+    display: inline-block;
+    width: 467px;
+    height: 550px;
+    padding: 10px;
+}
+
+.tables-practice2 {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+
+.frames-practice {
+    display: inline-block;
+    width: 467px;
+    height: 550px;
+    padding: 10px;
+
+}
+
+.frames-practice2 {
+    display: inline-block;
+    width: 100%;
+    height: 552px;
+    padding: 10px;
+
+}
+
+.form-table-frames-notes {
+    display: inline-block;
+    width: 100%;
+    border-left: 3px solid antiquewhite;
+    height: 100%;
+    padding: 10px;
+}
+
+.board-others-tag-practical {
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    background-color: #895061;
+    /* snowy blue */
+    height: 100%;
+    width: 98%;
+
+}
+
+.board4 {
+    border-radius: 10px;
+    background-color: #59253a;
+    padding: 10px;
+    width: 20%;
+
+}
+
+.style-practice {
+    display: inline-block;
+    width: 23%;
+    padding: 10px;
+}
+
+.meta-tag-practice {
+    display: inline-block;
+    width: 24%;
+    border-left: 3px solid antiquewhite;
+    height: 554px;
+    padding: 10px;
+}
+
+.programming-practice {
+    display: inline-block;
+    width: 24%;
+    border-left: 3px solid antiquewhite;
+    height: 574px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.div-tag {
+    background-color: khaki;
+    color: black;
+}
+
+.span-tag {
+    background-color: khaki;
+    color: black;
+}
+
+.link-tag{
+    color: blue;
+    font-size: 1.1em;
+}
