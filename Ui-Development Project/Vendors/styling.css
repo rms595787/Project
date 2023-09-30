@@ -1,0 +1,535 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #80529d;
+    height: 2250px;
+    width: 1450px;
+}
+
+.navigation-bar {
+    width: 1450px;
+    height: 150px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-horizontal-navigation-bar {
+    display: flex;
+    flex-direction: row;
+    padding: 60px 90px;
+}
+
+.top-left {
+    display: inline-block;
+    left: 0px;
+}
+
+.top-left>h1 {
+    font-size: 2em;
+
+}
+
+.top-right {
+    display: inline-block;
+    right: 0px;
+    padding-left: 430px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    display: inline-block;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-size: 1.2em;
+}
+
+#sign-up {
+    width: 125px;
+    height: 40px;
+    margin-top: -10px;
+    margin-left: 110px;
+    border-radius: 30px;
+    font-size: 1.2em;
+    border: 2px solid white;
+}
+
+.header-main-box {
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+
+.img1 {
+
+    width: 380px;
+    height: 265px;
+    position: absolute;
+    left: 90px;
+}
+
+.img2 {
+
+    height: 750px;
+    position: absolute;
+    right: 155px;
+    top: 200px;
+    left: 562.2px;
+}
+
+.header-main-box>h1 {
+    position: absolute;
+    top: 500px;
+    font-size: 6.5em;
+    color: white;
+    font-weight: 100px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header-search-box {
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    width: 600px;
+    height: 80px;
+    border-radius: 50px;
+    border: 2px solid white;
+    top: 735px;
+    padding-left: 20px;
+    font-size: 1em;
+
+}
+
+.search-btn {
+    position: relative;
+    width: 50px;
+    top: 591px;
+    left: 545px;
+    background-color: #ff7037;
+    padding: 7px;
+    border-radius: 100%;
+    border: 1px solid #ff7037;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.header-main-paragraph {
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    background-color: #61317f;
+    color: white;
+    font-size: 1.75em;
+    padding-left: 115px;
+    padding-right: 115px;
+    padding-top: 120px;
+    padding-bottom: 50px;
+    top: 1050px;
+    left: 90px;
+    right: 155px;
+    width: 1035px;
+}
+
+.founder {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 0.9em;
+    padding-top: 30px;
+
+}
+
+.f-n {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.9em;
+    color: #ff7138;
+}
+
+.img4 {
+    position: absolute;
+    height: 700px;
+    width: 500px;
+    top: 1550px;
+    left: 90px;
+}
+
+.header-heading {
+    position: absolute;
+    font-size: 4.1em;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    top: 1600px;
+    left: 730px;
+    right: 90px;
+    width: 690.5px;
+}
+
+.header-heading-paragraph {
+    position: absolute;
+    font-size: 1.5em;
+    color: #949ca9;
+    font-family: 'Montserrat', sans-serif;
+    top: 1880px;
+    left: 730px;
+    right: 90px;
+    width: 690.5px;
+}
+
+.planning-box {
+    position: absolute;
+    width: 295px;
+    height: 295px;
+    background-color: #ff7138;
+    top: 2150px;
+    left: 390px;
+}
+
+.planning-box>h4 {
+    box-sizing: border-box;
+    color: #ce9120;
+    position: absolute;
+    font-size: 3em;
+    font-weight: bold;
+    left: 30px;
+    bottom: 100px;
+}
+
+.planning-box>p {
+    color: black;
+    position: absolute;
+    bottom: 50px;
+    font-size: 3em;
+    font-weight: bold;
+    left: 30px;
+}
+
+.experiment-box {
+    position: absolute;
+    width: 295px;
+    height: 295px;
+    background-color: #ff7138;
+    top: 2150px;
+    left: 720px;
+}
+
+.experiment-box>h4 {
+    box-sizing: border-box;
+    color: #ce9120;
+    position: absolute;
+    font-size: 3em;
+    font-weight: bold;
+    left: 30px;
+    bottom: 100px;
+}
+
+.experiment-box>p {
+    color: black;
+    position: absolute;
+    bottom: 50px;
+    font-size: 3em;
+    font-weight: bold;
+    left: 30px;
+}
+
+.project-box {
+    position: absolute;
+    width: 295px;
+    height: 295px;
+    background-color: #ff7138;
+    top: 2150px;
+    left: 1050px;
+}
+
+.project-box>h4 {
+    box-sizing: border-box;
+    color: #ce9120;
+    position: absolute;
+    font-size: 3em;
+    font-weight: bold;
+    left: 30px;
+    bottom: 100px;
+}
+
+.project-box>p {
+    color: black;
+    position: absolute;
+    bottom: 50px;
+    font-size: 3em;
+    font-weight: bold;
+    left: 30px;
+}
+
+.main {
+    background-color: white;
+    height: 2550px;
+    width: 1450px;
+    padding-left: 15px;
+    padding-bottom: 100px;
+}
+
+.box1 {
+    position: absolute;
+    top: 2470px;
+}
+
+.main-box1 {
+    /* display: inline-block; */
+    position: absolute;
+    top: 150px;
+    left: 90px;
+    color: black;
+    width: 641px;
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+.main-box1>a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.main-box2 {
+    /* display: inline-block; */
+    position: absolute;
+    top: 100px;
+    left: 810px;
+    color: black;
+    color: #d9dbe2;
+
+
+}
+
+.main-box2>img {
+    width: 570px;
+    border: 2px solid white;
+}
+
+.m-b2 {
+    color: black;
+    font-size: 2em;
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+.m-b2-b {
+    color: #acbabb;
+    font-size: 1.5em;
+    padding-top: 20px;
+}
+
+.main-box3 {
+    /* display: inline-block; */
+    position: absolute;
+    top: 520px;
+    left: 90px;
+    color: black;
+    color: #d9dbe2;
+
+
+}
+
+.main-box3>img {
+    width: 570px;
+    border: 2px solid white;
+    border-radius: 50px;
+}
+
+.m-b3 {
+    color: black;
+    font-size: 2em;
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+.m-b3-b {
+    color: #acbabb;
+    font-size: 1.5em;
+    padding-top: 20px;
+}
+
+.main-box4 {
+    /* display: inline-block; */
+    position: absolute;
+    top: 860px;
+    left: 810px;
+    color: black;
+    color: #d9dbe2;
+
+
+}
+
+.main-box4>img {
+    width: 570px;
+    border: 2px solid white;
+    border-radius: 50px;
+}
+
+.m-b4 {
+    color: black;
+    font-size: 2em;
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+.m-b4-b {
+    color: #acbabb;
+    font-size: 1.5em;
+    padding-top: 20px;
+}
+
+.main-footer-heading {
+    position: absolute;
+    top: 1590px;
+    left: 90px;
+    color: black;
+    width: 775px;
+    font-size: 4.2em;
+    font-weight: bold;
+}
+
+.main-footer1 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 1830px;
+    left: 90px;
+}
+
+.m-f-h3{
+    font-size: 3em;
+    background-color: red;
+}
+
+.m-f-h2{
+    font-size: 2em;
+}
+
+.footer-paragraph{
+    font-size: 1.4em;
+    padding-left: 0;
+    padding-right: 30px;
+    color: #acbabb;
+}
+
+.m-f-1 {
+    display: inline-block;
+    width: 400px;
+}
+
+.m-f-2 {
+    display: inline-block;
+    width: 400px;
+}
+
+.m-f-3 {
+    display: inline-block;
+    width: 400px;
+}
+
+.m-f2-h2{
+    position: absolute;
+    font-size: 4.2em;
+    left: 90px;
+    top: 2250px;
+    width: 500px;
+}
+
+.m-f2-p{
+    position: absolute;
+    font-size: 1.4em;
+    top: 2250px;
+    left: 600px;
+    width: 700px;
+    font-weight: lighter;
+}
+
+.footer {
+    position: absolute;
+    top: 4900px;
+    display: flex;
+    flex-direction: row;
+    background-color: whitesmoke;
+    height: 455px;
+    width: 1450px;
+}
+.f-h3-1{
+    font-size: 2em;
+    position: absolute;
+    top: -40px;
+    left: 30px;
+}
+.f-h3-2{
+    font-size: 2em;
+    position: absolute;
+    top: -40px;
+    /* left: ; */
+}
+.f-h3-3{
+    font-size: 2em;
+    position: absolute;
+    top: -40px;
+    /* left: ; */
+}
+.f-h3-4{
+    font-size: 2em;
+    position: absolute;
+    top: -40px;
+    left: 30px;
+}
+.f-h3-5{
+    font-size: 2em;
+    position: absolute;
+    top: -40px;
+    left: 30px;
+}
+.product{
+    top: 100px;
+    left: 90px;
+    position: absolute;
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+}
+.resources{
+    top: 100px;
+    left: 330px;
+    position: absolute;
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+}
+.community{
+    top: 100px;
+    left: 570px;
+    position: absolute;
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+}
+.support{
+    top: 100px;
+    left: 810px;
+    position: absolute;
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+}
+.company{
+    top: 100px;
+    left: 1120px;
+    position: absolute;
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+}
+
+.f-ul{
+    display: flex;
+    flex-direction: column;
+}
