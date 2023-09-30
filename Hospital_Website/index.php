@@ -6,21 +6,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+    
     <!-- Page Title -->
     <title>Hospital Management System</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/logo/favicon.png" type="image/x-icon">
-    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+    
     <!-- CSS Files -->
     <link rel="stylesheet" href="assets/css/animate-3.7.0.css">
     <link rel="stylesheet" href="assets/css/font-awesome-4.7.0.min.css">
@@ -37,11 +29,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
         <div class="spinner"></div>
     </div>
     <!-- Preloader End -->
-    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+    
     <!-- Header Area Starts -->
     <header class="header-area">
         <div id="header" id="home">
@@ -62,11 +50,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
         </div>
     </header>
     <!-- Header Area End -->
-    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+    
     <!-- Banner Area Starts -->
     <section class="banner-area">
         <div class="container">
@@ -80,11 +64,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
         </div>
     </section>
 
-    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+    
 
 
     <!-- Javascript -->
@@ -98,10 +78,6 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
     <script src="assets/js/main.js"></script>
 
 </body>
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+
 
 </html>

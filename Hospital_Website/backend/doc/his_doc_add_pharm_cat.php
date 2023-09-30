@@ -1,8 +1,4 @@
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
---><?php
+<?php
 	session_start();
 	include('assets/inc/config.php');
 		if(isset($_POST['add_pharmaceutical_category']))
@@ -33,11 +29,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 			
 		}
 ?>
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+
 <!--End Server Side-->
 <!--End Patient Registration-->
 <!DOCTYPE html>
@@ -47,11 +39,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 <?php include('assets/inc/head.php');?>
 
 <body>
-    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+    
     <!-- Begin page -->
     <div id="wrapper">
 
@@ -66,11 +54,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
         <!-- ============================================================== -->
         <!-- Start Page Content here -->
         <!-- ============================================================== -->
-        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+        
         <div class="content-page">
             <div class="content">
 
@@ -93,11 +77,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         </div>
                     </div>
                     <!-- end page title -->
-                    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                    
                     <!-- Form row -->
                     <div class="row">
                         <div class="col-12">
@@ -132,11 +112,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                                                     <?php }?>
                                                 </select>
                                             </div>
-                                            <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                                            
                                         </div>
 
                                         <div class="form-group">
@@ -153,11 +129,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         </div> <!-- end col -->
                     </div>
                     <!-- end row -->
-                    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                    
                 </div> <!-- container -->
 
             </div> <!-- content -->
@@ -172,11 +144,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
         <!-- End Page content -->
         <!-- ============================================================== -->
 
-        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+        
     </div>
     <!-- END wrapper -->
     <!--Load CK EDITOR Javascript-->
@@ -200,16 +168,8 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
     <!-- Buttons init js-->
     <script src="assets/js/pages/loading-btn.init.js"></script>
-    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+    
 </body>
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+
 
 </html>

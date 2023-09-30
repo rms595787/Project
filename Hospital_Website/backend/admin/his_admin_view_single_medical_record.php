@@ -1,8 +1,4 @@
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
---><?php
+<?php
   session_start();
   include('assets/inc/config.php');
   include('assets/inc/checklogin.php');
@@ -11,22 +7,14 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+
 <?php include ('assets/inc/head.php');?>
 
 <body>
 
     <!-- Begin page -->
     <div id="wrapper">
-        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+        
         <!-- Topbar Start -->
         <?php include('assets/inc/nav.php');?>
         <!-- end Topbar -->
@@ -34,11 +22,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
         <!-- ========== Left Sidebar Start ========== -->
         <?php include("assets/inc/sidebar.php");?>
         <!-- Left Sidebar End -->
-        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+        
         <!-- ============================================================== -->
         <!-- Start Page Content here -->
         <!-- ============================================================== -->

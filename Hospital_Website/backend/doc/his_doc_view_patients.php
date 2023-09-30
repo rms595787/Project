@@ -6,11 +6,7 @@
   //$aid=$_SESSION['ad_id'];
   $doc_id = $_SESSION['doc_id']
 ?>
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -20,11 +16,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
     <!-- Begin page -->
     <div id="wrapper">
-        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+        
         <!-- Topbar Start -->
         <?php include('assets/inc/nav.php');?>
         <!-- end Topbar -->
@@ -39,11 +31,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
         <div class="content-page">
             <div class="content">
-                <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                
                 <!-- Start Content-->
                 <div class="container-fluid">
 
@@ -63,11 +51,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         </div>
                     </div>
                     <!-- end page title -->
-                    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                    
                     <div class="row">
                         <div class="col-12">
                             <div class="card-box">
@@ -89,11 +73,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                                         </div>
                                     </div>
                                 </div>
-                                <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                                
                                 <div class="table-responsive">
                                     <table id="demo-foo-filtering" class="table table-bordered toggle-circle mb-0" data-page-size="7">
                                         <thead>
@@ -152,11 +132,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         </div> <!-- end col -->
                     </div>
                     <!-- end row -->
-                    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                    
                 </div> <!-- container -->
 
             </div> <!-- content -->
@@ -166,11 +142,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
             <!-- end Footer -->
 
         </div>
-        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+        
         <!-- ============================================================== -->
         <!-- End Page content -->
         <!-- ============================================================== -->
@@ -196,10 +168,6 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
     <script src="assets/js/app.min.js"></script>
 
 </body>
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+
 
 </html>

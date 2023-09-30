@@ -1,9 +1,5 @@
 <!--Server side code to handle  Patient Registration-->
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
---><?php
+<?php
 	session_start();
 	include('assets/inc/config.php');
 		if(isset($_POST['add_emp_vitals']))
@@ -37,11 +33,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 			
 		}
 ?>
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+
 <!--End Server Side-->
 <!--End Patient Registration-->
 <!DOCTYPE html>
@@ -58,11 +50,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
         <!-- Topbar Start -->
         <?php include("assets/inc/nav.php");?>
         <!-- end Topbar -->
-        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+        
         <!-- ========== Left Sidebar Start ========== -->
         <?php include("assets/inc/sidebar.php");?>
         <!-- Left Sidebar End -->
@@ -86,11 +74,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
                 <!-- Start Content-->
                 <div class="container-fluid">
-                    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                    
                     <!-- start page title -->
                     <div class="row">
                         <div class="col-12">
@@ -139,11 +123,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
                                         </div>
 
-                                        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                                        
                                         <hr>
                                         <div class="form-row">
 
@@ -183,11 +163,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                                         </div>
 
                                         <button type="submit" name="add_emp_vitals" class="ladda-button btn btn-success" data-style="expand-right">Add Vitals</button>
-                                        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                                        
                                     </form>
                                     <!--End Patient Form-->
                                 </div> <!-- end card-body -->
@@ -211,11 +187,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
         <!-- End Page content -->
         <!-- ============================================================== -->
 
-        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+        
     </div>
     <!-- END wrapper -->
 
@@ -239,11 +211,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
     <!-- Buttons init js-->
     <script src="assets/js/pages/loading-btn.init.js"></script>
-    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+    
 </body>
 
 </html>

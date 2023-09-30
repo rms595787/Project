@@ -1,8 +1,4 @@
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
---><?php
+<?php
   session_start();
   include('assets/inc/config.php');
   include('assets/inc/checklogin.php');
@@ -34,11 +30,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 <html lang="en">
 
 <?php include('assets/inc/head.php');?>
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+
 
 <body>
 
@@ -56,21 +48,13 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
         <!-- ============================================================== -->
         <!-- Start Page Content here -->
         <!-- ============================================================== -->
-        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+        
         <div class="content-page">
             <div class="content">
 
                 <!-- Start Content-->
                 <div class="container-fluid">
-                    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                    
                     <!-- start page title -->
                     <div class="row">
                         <div class="col-12">
@@ -87,11 +71,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         </div>
                     </div>
                     <!-- end page title -->
-                    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                    
                     <div class="row">
                         <div class="col-12">
                             <div class="card-box">
@@ -113,11 +93,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                                         </div>
                                     </div>
                                 </div>
-                                <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                                
                                 <div class="table-responsive">
                                     <table id="demo-foo-filtering" class="table table-bordered toggle-circle mb-0" data-page-size="7">
                                         <thead>
@@ -144,11 +120,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                                                 while($row=$res->fetch_object())
                                                 {
                                             ?>
-                                        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                                        
                                         <tbody>
                                             <tr>
                                                 <td><?php echo $cnt;?></td>
@@ -173,11 +145,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                                             </tr>
                                         </tfoot>
                                     </table>
-                                    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                                    
                                 </div> <!-- end .table-responsive-->
                             </div> <!-- end card-box -->
                         </div> <!-- end col -->
@@ -191,11 +159,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
             <!-- Footer Start -->
             <?php include('assets/inc/footer.php');?>
             <!-- end Footer -->
-            <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+            
         </div>
 
         <!-- ============================================================== -->
@@ -205,11 +169,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
     </div>
     <!-- END wrapper -->
-    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+    
 
     <!-- Right bar overlay-->
     <div class="rightbar-overlay"></div>
@@ -222,19 +182,10 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
     <!-- Init js -->
     <script src="assets/js/pages/foo-tables.init.js"></script>
-    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+    
     <!-- App js -->
     <script src="assets/js/app.min.js"></script>
 
 </body>
 
 </html>
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->

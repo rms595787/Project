@@ -1,8 +1,4 @@
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
---><?php
+<?php
   session_start();
   include('assets/inc/config.php');
   include('assets/inc/checklogin.php');
@@ -11,11 +7,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
   $doc_number = $_SESSION['doc_number'];
 
 ?>
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -26,11 +18,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
     <!-- Begin page -->
     <div id="wrapper">
-        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+        
         <!-- Topbar Start -->
         <?php include('assets/inc/nav.php');?>
         <!-- end Topbar -->
@@ -45,11 +33,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
         <div class="content-page">
             <div class="content">
-                <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                
                 <!-- Start Content-->
                 <div class="container-fluid">
 
@@ -63,11 +47,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         </div>
                     </div>
                     <!-- end page title -->
-                    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                    
 
                     <div class="row">
                         <!--Start OutPatients-->
@@ -99,11 +79,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         </div> <!-- end col-->
                         <!--End Out Patients-->
 
-                        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                        
                         <!--Start InPatients-->
                         <div class="col-md-6 col-xl-4">
                             <div class="widget-rounded-circle card-box">
@@ -113,11 +89,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                                             <i class="mdi mdi-flask font-22 avatar-title text-danger"></i>
                                         </div>
                                     </div>
-                                    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                                    
                                     <div class="col-6">
                                         <div class="text-right">
                                             <?php
@@ -139,11 +111,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                             </div> <!-- end widget-rounded-circle-->
                         </div>
                         <!--End InPatients-->
-                        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                        
                         <!--Start Pharmaceuticals-->
                         <div class="col-md-6 col-xl-4">
                             <div class="widget-rounded-circle card-box">
@@ -174,11 +142,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                             </div> <!-- end widget-rounded-circle-->
                         </div> <!-- end col-->
                         <!--End Pharmaceuticals-->
-                        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                        
                     </div>
 
                     <div class="row">
@@ -206,11 +170,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         </div>
                         <!-- end col-->
                         <!--End Vendors-->
-                        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                        
                         <!--Start Corporation Assets-->
                         <div class="col-md-6 col-xl-6">
                             <a href="his_doc_view_payrolls.php">
@@ -234,11 +194,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         <!--End Corporation Assets-->
                     </div>
 
-                    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                    
 
                     <!--Recently Employed Employees-->
                     <div class="row">
@@ -303,11 +259,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         </div> <!-- end col -->
                     </div>
                     <!-- end row -->
-                    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                    
                 </div> <!-- container -->
 
             </div> <!-- content -->
@@ -322,11 +274,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
         <!-- End Page content -->
         <!-- ============================================================== -->
 
-        <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+        
     </div>
     <!-- END wrapper -->
 
@@ -349,11 +297,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                 <h5><a href="javascript: void(0);">Geneva Kennedy</a> </h5>
                 <p class="text-muted mb-0"><small>Admin Head</small></p>
             </div>
-            <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+            
 
             <!-- Settings -->
             <hr class="mt-0" />
@@ -373,11 +317,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                         API Access
                     </label>
                 </div>
-                <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+                
                 <div class="checkbox checkbox-primary mb-2">
                     <input id="Rcheckbox3" type="checkbox">
                     <label for="Rcheckbox3">
@@ -397,11 +337,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                     </label>
                 </div>
             </div>
-            <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+            
             <!-- Timeline -->
             <hr class="mt-0" />
             <h5 class="px-3">Messages <span class="float-right badge badge-pill badge-danger">25</span></h5>
@@ -440,11 +376,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
         </div> <!-- end slimscroll-menu-->
     </div>
     <!-- /Right-bar -->
-    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+    
 
     <!-- Right bar overlay-->
     <div class="rightbar-overlay"></div>
@@ -464,19 +396,10 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
     <!-- Dashboar 1 init js-->
     <script src="assets/js/pages/dashboard-1.init.js"></script>
-    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+    
     <!-- App js-->
     <script src="assets/js/app.min.js"></script>
 
 </body>
 
 </html>
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->

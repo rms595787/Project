@@ -1,8 +1,7 @@
-**Log on to Code Camp BD for more projects!***
 
-**Database Name: hms_code_camp_bd**
+**Database Name: hospitaldb**
 
-**Developed by MH RONY**
+**Developed by Rahul Sharma**
 
 **Recommended PHP Version 7.4++**
 
@@ -18,9 +17,3 @@ Password: (Password on the YouTube video)
 
 ID      : ccbd
 Password: (Password on the YouTube video)
-
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->

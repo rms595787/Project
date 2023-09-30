@@ -6,7 +6,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 $dbuser="root";
 $dbpass="";
 $host="localhost";
-$db="hospital_db";
+$db="hospitaldb";
 $mysqli=new mysqli($host,$dbuser, $dbpass, $db);
 ?>
 <!-- Author By: MH RONY

@@ -1,10 +1,4 @@
-/*!
- * Ladda
- * http://lab.hakim.se/ladda
- * MIT licensed
- *
- * Copyright (C) 2016 Hakim El Hattab, http://hakim.se
- */
+
 (function( root, factory ) {
 	'use strict';
 
