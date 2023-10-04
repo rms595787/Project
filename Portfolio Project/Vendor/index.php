@@ -1,32 +1,33 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <title>Ronaldo - Free Bootstrap 4 Template by Colorlib</title>
+  <title>Portfolio Project</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-  <link rel="stylesheet" href="/Vendor/css/open-iconic-bootstrap.min.css">
-  <link rel="stylesheet" href="/Vendor/css/animate.css">
-  <link rel="stylesheet" href="/Vendor/css/owl.carousel.min.css">
-  <link rel="stylesheet" href="/Vendor/css/owl.theme.default.min.css">
-  <link rel="stylesheet" href="/Vendor/css/magnific-popup.css">
-  <link rel="stylesheet" href="/Vendor/css/aos.css">
-  <link rel="stylesheet" href="/Vendor/css/ionicons.min.css">
-  <link rel="stylesheet" href="/Vendor/css/flaticon.css">
-  <link rel="stylesheet" href="/Vendor/css/icomoon.css">
-  <link rel="stylesheet" href="/Vendor/css/style1.css">
+  <link rel="stylesheet" href="/css/open-iconic-bootstrap.min.css">
+  <link rel="stylesheet" href="/css/animate.css">
+  <link rel="stylesheet" href="/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="/css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="/css/magnific-popup.css">
+  <link rel="stylesheet" href="/css/aos.css">
+  <link rel="stylesheet" href="/css/ionicons.min.css">
+  <link rel="stylesheet" href="/css/flaticon.css">
+  <link rel="stylesheet" href="/css/icomoon.css">
+  <link rel="stylesheet" href="/css/style1.css">
 
-  <!-- <link rel="stylesheet" href="/Vendor/css/template.css"> -->
-  <link rel="stylesheet" href="/Vendor/css/inline style sheet #1">
-  <link rel="stylesheet" href="/Vendor/css/inline style sheet #1">
-  <link rel="stylesheet" href="/Vendor/css/css.css">
-  <link rel="stylesheet" href="/Vendor/css/fa.min.css">
-  <link rel="stylesheet" href="/Vendor/css/gfonts.min.css">
-  <link rel="stylesheet" href="/Vendor/css/highlighters.css">
-  <link rel="stylesheet" href="/Vendor/css/bootstrap.min.css">
+  <!-- <link rel="stylesheet" href="/css/template.css"> -->
+  <link rel="stylesheet" href="/css/inline style sheet #1">
+  <link rel="stylesheet" href="/css/inline style sheet #1">
+  <link rel="stylesheet" href="/css/css.css">
+  <link rel="stylesheet" href="/css/fa.min.css">
+  <link rel="stylesheet" href="/css/gfonts.min.css">
+  <link rel="stylesheet" href="/css/highlighters.css">
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
 
-  <!-- <link rel="stylesheet" href="/Vendor/style.css"> -->
+  <!-- <link rel="stylesheet" href="/style.css"> -->
   <style type="text/css">
     .scrollax-performance,
     .scrollax-performance *,
@@ -60,7 +61,7 @@
           <li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projects</span></a></li>
           <li class="nav-item"><a href="#blog-section" class="nav-link"><span>My Blog</span></a></li>
           <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
-          <li class="nav-item"><a href="/Vendor/register.php" class="nav-link"><span>Sign Up</span></a></li>
+          <li class="nav-item" id="sign-up"><span><a href="register.php">Sign Up</a></span></li>
         </ul>
       </div>
     </div>

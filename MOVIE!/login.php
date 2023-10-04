@@ -105,7 +105,7 @@ if(isset($_POST["submit"])){
 <body>
     <div class="container">
         <h2>Login</h2>
-        <form action="index.php" method="POST">
+        <form action="index2.php" method="POST">
             <div class="form-group">
                 <label for="usernameemail">Username or Email</label>
                 <input type="text" id="usernameemail" name="usernameemail" required>
